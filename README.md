@@ -24,11 +24,11 @@
         }
     };
 
-    console.log(‘getter’, person);    // output  “varun Singh”
+    console.log("getter", person);    // output  “varun Singh”
 
     person.fullName = 'Mohan Singh'     // setting new value
 
-    console.log(‘setter’, person); // output  “Mohan Singh”
+    console.log("setter", person); // output  “Mohan Singh”
 
 
 	
