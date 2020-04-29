@@ -13,7 +13,7 @@
 	Suppose we have an object  with “first Name” and “Last Name” but we want to display the “full name” somewhere then we use the getter(get()) and setter (set())  
     E.g 
 
-    var person1  = {
+    var person  = {
     firstName:"varun",
     lastName:"Singh",
         get fullName(){
